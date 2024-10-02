@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+div>img{
+    width: 80%;
+}
+
+h1{
+    display: inline-block;
+    font-size: 10rem;
+    color: #ff0000 ;
+}
